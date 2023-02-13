@@ -169,4 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Okeke Ikenna | Email: [godstimeikoba]
+Okeke Ikenna and Fregene Goodluck
+
